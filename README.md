@@ -14,5 +14,3 @@ Tested with Intel RealSense D435.
 3. The project needs the **nuitrack.net** dll to work which is already enclosed in this project.
 
 ---
-
-End
