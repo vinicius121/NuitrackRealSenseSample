@@ -1,0 +1,13 @@
+                                <StackPanel Width="auto">
+                                    <Label FontSize="18"  HorizontalContentAlignment="Left">Emotion</Label>
+                                    <StackPanel Orientation="Vertical" Height="auto">
+                                        <lvc:PieChart Name="pieEmotionChart"  Series="{Binding SeriesCollectionPieEmotion}" InnerRadius="50" MinHeight="142" MinWidth="300" LegendLocation="Right" Hoverable="False" Width="244" Height="102">
+                                            <lvc:PieChart.ChartLegend>
+                                                <lvc:DefaultLegend BulletSize="15"></lvc:DefaultLegend>
+                                            </lvc:PieChart.ChartLegend>
+                                            <lvc:PieChart.DataTooltip>
+                                                <lvc:DefaultTooltip BulletSize="15"></lvc:DefaultTooltip>
+                                            </lvc:PieChart.DataTooltip>
+                                        </lvc:PieChart>
+                                    </StackPanel>
+                                </StackPanel>

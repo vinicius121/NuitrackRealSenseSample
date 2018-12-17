@@ -1,10 +1,10 @@
-**NuitrackRealSenseSample**
+## NuitrackRealSenseSample
 
 This is a sample in C# WPF showing body tracking with the Nuitrack SDK and Intel RealSense.
 
 ---
 
-## NuitrackRealSenseSample
+**Nuitrack and RealSense sample**
 
 This is a sample in C# WPF showing body tracking with the Nuitrack SDK and Intel RealSense. 
 Tested with Intel RealSense D435.
